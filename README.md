@@ -1,1 +1,0 @@
-# tygie-reward
